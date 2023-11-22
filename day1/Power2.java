@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Q3 {
+class Power2 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         System.out.println("Enter Value");

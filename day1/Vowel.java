@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Q9 {
+public class Vowel {
     // public static void main(String[] args) {
     //     String vowels = "aeiouAEIOU";
     //     Scanner scn = new Scanner(System.in);
